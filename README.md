@@ -3,6 +3,8 @@
 If you are a potential employer checking to see how often I commit to GitHub, you should know most of my commits go to my companies private Bitbucket repositories. If you are interested in some of the projects I've worked on, feel free to ask!
 
 🔭 A personal project I’m currently working on is a low level rendering engine written in Rust. Inspiration was gathered from another project here on GitHub called TinyRender.
+
+🤔 I’m currently thinking about whether or not I should start blogging. I kinda want to and it looks cool so this might be a yes situation...
 <!--
 **DenverEllis/DenverEllis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
